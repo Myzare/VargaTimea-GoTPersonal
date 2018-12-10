@@ -1,0 +1,49 @@
+body {
+  background: url(/assets/site/mapblue.jpg) repeat-x 0 0;
+}
+
+.div___left--portraits {
+  float: left;
+  font-size: 15px;
+  margin: 9px 9px;
+  padding: 20px 0px 0px 0px;
+  text-align: center;
+  width: 130px;
+}
+
+.div___left {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  width: 80%;
+}
+
+.div___right {
+  background-color: darkslategrey;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  width: 20%;
+}
+
+img.alivePort {
+  height: 100px;
+}
+
+h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+img {
+  max-inline-size: 200px;
+}
+
+#userInput {
+  bottom: 5px;
+  height: 23px;
+  left: 20px;
+  margin: 5px;
+  position: absolute;
+  width: 220px;
+}
